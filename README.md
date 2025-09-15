@@ -38,8 +38,6 @@ Claude Code is a cutting-edge CLI-based coding assistant and agent released by [
 
 - We've got a few new resources this week, and I've made some good progress on the backlog.
 
-- I've created a [DONATING](DONATING.md) page in case anyone want to support this repository. This is _not_ a GitHub sponsorship or a "Buy Me a Coffee" link - I'm trying something a little different. Hopefully it will work out. See the very bottom of the README for an overview, and check out the [DONATING](DONATING.md) page for details. **We get a lot of visitors here at Awesome Claude Code (currently about 100 new stars a day) - can we raise $100 for a good cause by the end of next week??** Let's see what this community can do! 🙏
-
 ## This Week's Additions ✨
 
 > Resources added in the past 7 days
@@ -56,14 +54,6 @@ A tailored workflow for enabling automated UI/UX design review, including specia
 [`SuperClaude`](https://github.com/SuperClaude-Org/SuperClaude_Framework) &nbsp; by &nbsp; [SuperClaude-Org](https://github.com/SuperClaude-Org)  &nbsp;&nbsp;⚖️&nbsp;&nbsp;MIT  
 A versatile configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies, such as "Introspection" and "Orchestration".
 
-
-## Awesome Claude Code Freedom Funders
-
-- hesreallyhim (repository maintainer)
-
-### Total Amount Raised:
-
-**$???** (Will be disclosed once a non-trivial amount has been raised.)
 
 ## Contents
 
